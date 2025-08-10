@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Mathew4real
+# 👨‍💻 Mathew Earnest
 
 **`Digital Craftsman (Developer/Student)`**
 
