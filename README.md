@@ -25,11 +25,6 @@ I’m a junior backend developer based in Portugal, fluent in both English and P
 
 ---
 
-### 📫 Get in touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/mathew4real)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:mateusearnest22@gmail.com)
-
 
 ### 📊 Stats
 
